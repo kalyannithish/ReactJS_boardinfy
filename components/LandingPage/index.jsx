@@ -103,7 +103,7 @@ export default function LandingPage() {
                     <a
                       target={"_blank"}
                       rel="noreferrer noopener"
-                      href="https://www.linkedin.com/in/mmm066550"
+                      href="https://www.linkedin.com/in/kalyannithish"
                     >
                       <AiFillLinkedin />
                     </a>
@@ -112,7 +112,7 @@ export default function LandingPage() {
                     <a
                       target={"_blank"}
                       rel="noreferrer noopener"
-                      href="https://fb.com/MOUSTAPHAMAHMMOUD"
+                      href="https://fb.com/k.k0033"
                     >
                       <AiFillFacebook />
                     </a>
@@ -122,7 +122,7 @@ export default function LandingPage() {
                     <a
                       target={"_blank"}
                       rel="noreferrer noopener"
-                      href="https://github.com/mmm-066550"
+                      href="https://github.com/kalyannithish"
                     >
                       <AiFillGithub />
                     </a>
@@ -131,7 +131,7 @@ export default function LandingPage() {
                     <a
                       target={"_blank"}
                       rel="noreferrer noopener"
-                      href="https://moustapha.me"
+                      href="spotify.com"
                     >
                       <AiOutlineGlobal />
                     </a>
