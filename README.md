@@ -1,4 +1,4 @@
-# Spotify NextJs Clone App
+# BoardInfinity
 
 🎧 🎵 **Spotify** clone app using spotify api and spotify SDK with **React.js**, **Next.js** and **Redux**
 
