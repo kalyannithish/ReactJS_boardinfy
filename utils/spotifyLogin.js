@@ -3,7 +3,7 @@ export const CLIENT_SECRET = process.env.CLIENT_SECRET;
 export const REDIRECT_URI =
   typeof window !== "undefined"
     ? window.location.origin
-    : "https://react-js-boardinfy.vercel.app/";
+    : "https://react-js-boardinfy.vercel.app/callback";
 export const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
 export const TOKEN_ENDPOINT = `https://accounts.spotify.com/api/token`;
 export const RESPONSE_TYPE = "code";
